@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Chocolate Chip Cookies",
+    "category": "Cookie",
+    "category2": "Dairy-free",
+    "description": "Four classic chocolate chip cookies",
+    "price": 8,
+    "rating": 4.5,
+    "image": "images/anika.png"
+  },
+  {
+    "name": "Matcha Mille Crepe Cake",
+    "category": "Cake",
+    "category2": "Dairy-free / Nut-free",
+    "description": "Layers of matcha crepe and matcha cream filling, topped with strawberries",
+    "price": 5,
+    "rating": 5,
+    "image": "images/aubrey.png"
+  },
+  {
+    "name": "Egg Custard Bun",
+    "category": "Bread",
+    "category2": "Dairy-free / Gluten-free",
+    "description": "A fluffy steamed bun with a savory egg filling",
+    "price": 3,
+    "rating": 2,
+    "image": "images/connie.png"
+  },
+  {
+    "name": "Steamed Taro Buns",
+    "category": "Bread",
+    "category2": "Nut-free / Gluten-free",
+    "description": "Two soft steamed buns filled with gooey purple taro filling",
+    "price": 6,
+    "rating": 3,
+    "image": "images/dylan.png"
+  },
+  {
+    "name": "Chocolate Fudge Brownie",
+    "category": "Cake",
+    "category2": "Dairy-free / Nut-free / Gluten-free",
+    "description": "A rich fudge brownie drizzled with chocolate ganache",
+    "price": 4,
+    "rating": 1.6,
+    "image": "images/isaac.png"
+  },
+  {
+    "name": "Macarons",
+    "category": "Cookie",
+    "category2": "Dairy-free / Nut-free",
+    "description": "A box of three macarons in assorted flavors",
+    "price": 5,
+    "rating": 1.9,
+    "image": "images/jeff.png"
+  },
+  {
+    "name": "Multigrain Bread",
+    "category": "Bread",
+    "category2": "Dairy-free / Nut-free / Gluten-free",
+    "description": "A loaf of fresh-baked multigrain bread",
+    "price": 2,
+    "rating": 3.7,
+    "image": "images/jenny.png"
+  },
+  {
+    "name": "Croissant",
+    "category": "Bread",
+    "category2": "Nut-free",
+    "description": "A classic butter croissant with a flaky crust",
+    "price": 9,
+    "rating": 2.5,
+    "image": "images/jessie.png"
+  },
+  {
+    "name": "Toast with Butter",
+    "category": "Bread",
+    "category2": "Gluten-free",
+    "description": "A slice of toast with a pat of butter",
+    "price": 7,
+    "rating": 4.1,
+    "image": "images/kelly.png"
+  },
+  {
+    "name": "Tiramisu",
+    "category": "Cake",
+    "category2": "Nut-free / Gluten-free",
+    "description": "A classic tiramisu with layers of coffee-soaked ladyfingers and mascarpone cream",
+    "price": 8,
+    "rating": 2.9,
+    "image": "images/lauren.png"
+  },
+  {
+    "name": "Egg Tart",
+    "category": "Cookie",
+    "category2": "Dairy-free / Nut-free / Gluten-free",
+    "description": "A flaky pastry shell filled with a sweet egg custard",
+    "price": 4,
+    "rating": 4.6,
+    "image": "images/melissa.png"
+  },
+  {
+    "name": "Everything Bagel",
+    "category": "Bread",
+    "category2": "Gluten-free",
+    "description": "A toasted bagel with sesame seeds, poppy seeds, and dried onion",
+    "price": 3,
+    "rating": 3.4,
+    "image": "images/miku.png"
+  },
+  {
+    "name": "Gingerbread Man",
+    "category": "Cookie",
+    "category2": "Dairy-free / Gluten-free",
+    "description": "A soft gingerbread cookie with a sweet icing glaze",
+    "price": 7,
+    "rating": 3.9,
+    "image": "images/nick.png"
+  },
+  {
+    "name": "Cheesecake",
+    "category": "Cake",
+    "category2": "Dairy-free / Gluten-free",
+    "description": "A slice of classic New York cheesecake topped with strawberry",
+    "price": 1,
+    "rating": 4.4,
+    "image": "images/sunny.png"
+  },
+  {
+    "name": "Cream Puff",
+    "category": "Cake",
+    "category2": "Gluten-free",
+    "description": "Light and airy pâte à choux filled with sweet whipped cream",
+    "price": 6,
+    "rating": 3.6,
+    "image": "images/tongyu.png"
+  }
+]
