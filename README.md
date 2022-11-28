@@ -1,4 +1,5 @@
-1. Describe the goal of the application and value to a user:
+
+1. Describe the goal of the application and value to a user: \\
     -> The goal of this application is for user to find the bakery they want to buy easily by using the sort and filter features.
 
 2. Link to your deployed web application running online: 
